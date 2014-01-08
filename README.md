@@ -21,7 +21,7 @@ Some other explanation. it may be sorta long in regards to length and on and on 
 
 *or*
 
-`someTable`
+`*someTable*`<br/>
 Some table is used for this and that.
 
 `otherTable`
